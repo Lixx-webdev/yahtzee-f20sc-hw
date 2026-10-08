@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Yahtzee.Core/Yahtzee.Core.csproj" />
+    <Project Path="src/Yahtzee.WinForms/Yahtzee.WinForms.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Yahtzee.Core.Tests/Yahtzee.Core.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,9 @@
+bin/
+obj/
+publish/
+.vs/
+*.user
+TestResults/
+docs/guide-src/build/
+__pycache__/
+*.yahtzee.tmp

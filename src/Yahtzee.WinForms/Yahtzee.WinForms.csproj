@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <RootNamespace>Yahtzee.WinForms</RootNamespace>
+    <AssemblyName>Yahtzee</AssemblyName>
+    <Product>Yahtzee</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Yahtzee.Core\Yahtzee.Core.csproj" />
+  </ItemGroup>
+
+</Project>
